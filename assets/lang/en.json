@@ -1,0 +1,30 @@
+{
+    "home": "Home",
+    "welcome": "Welcome to Shop App",
+    "settings": "Settings",
+    "choose_language": "Choose Language",
+    "darkMode": "Dark Mode",
+      "search" : "Search",
+      "categories": "Categories",
+      "bestSelling": "Best Selling",
+      "laptops": "Laptops",
+      "smartphones": "Smartphones",
+      "monitors": "Monitors",
+      "tablets": "Tablets",
+      "watches": "Watches",
+      "lighting": "Lighting",
+       "cart": "Cart",
+
+    "title": "Product Details",
+  "description": "Description:",
+  "specifications": "Specifications:",
+  "addToCart": "Add to Cart",
+  "showInCart": "Show in Cart",
+  "comments": "Comments:",
+  "addComment": "Add a Comment...",
+  "productAddedToCart": "Product Added to Cart!"
+      
+    
+    
+  }
+  
