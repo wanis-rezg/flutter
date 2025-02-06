@@ -1,0 +1,30 @@
+{
+    "home":" الرئيسة",
+    "welcome": "مرحبا بكم في تطبيق المتجر",
+    "settings": "الإعدادات",
+    "darkMode": "الوضع الداكن",
+    "choose_language": "اختر اللغة",
+    
+     "search": "بحث",
+      "categories": "الفئات",
+      "bestSelling": "الأكثر مبيعًا",
+      "laptops": "أجهزة لابتوب",
+      "smartphones": "هواتف ذكية",
+      "monitors": "شاشات",
+      "tablets": "أجهزة تابلت",
+      "watches": "ساعات",
+      "lighting": "إضاءة",
+      "cart": "السلة",
+      
+    "title": "تفاصيل المنتج",
+    "description": "الوصف:",
+    "specifications": "المواصفات:",
+    "addToCart": "إضافة إلى السلة",
+    "showInCart": "عرض في السلة",
+    "comments": "التعليقات:",
+    "addComment": "أضف تعليقًا...",
+    "productAddedToCart": "تمت إضافة المنتج إلى السلة!"
+  
+    
+  }
+  
